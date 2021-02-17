@@ -1,3 +1,3 @@
 # github_worksheet
-Andrea Dahl
+Andrea Dahl.
 yeet here's the readme
